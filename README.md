@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noor-E Sadman
-- 👀 I’m interested in IoT, AI and Big Data
-- 🌱 I’m currently learning predictive analytics
+- 👀 I’m interested in IoT, AI, ML and Big Data
+- 🌱 I’m currently learning CFD Analysis.
 - 💞️ I’m looking to collaborate on projects based on IoT and AI
 - 📫 You can reach me at nooresadman@gmail.com
 <!---
